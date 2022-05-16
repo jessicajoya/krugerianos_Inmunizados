@@ -36,6 +36,7 @@ Continue con el API REST que maneja la logica del negocio ⏰ esta seccion me to
 
 ### 🙆‍♀️FRONT REACT
 Mediante Axios realizo las peticiones HTTP 
-## [Deploy GITHUB PAGES](https://jessicajoya.github.io/krugerianos_Inmunizados/) muestra los botones para Crear un nuevo krugeriano employee, un boton para editar desde user Admin y un boton para editar desde user empleado, junto con un boton de eliminar.
+##[Deploy GITHUB PAGES](https://jessicajoya.github.io/krugerianos_Inmunizados/) 
+Muestra los botones para Crear un nuevo krugeriano employee, un boton para editar desde user Admin y un boton para editar desde user empleado, junto con un boton de eliminar.
 Simulando un user que es empleado y administrador; ya que no alcance a terminar el login y los auther.
 
