@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/krugerianos_Inmunizados/static/css/main.f77380e4.css",
-    "main.js": "/krugerianos_Inmunizados/static/js/main.5caa4c66.js",
+    "main.js": "/krugerianos_Inmunizados/static/js/main.2e6d97cb.js",
     "static/js/787.afec37f8.chunk.js": "/krugerianos_Inmunizados/static/js/787.afec37f8.chunk.js",
     "static/media/primeicons.svg": "/krugerianos_Inmunizados/static/media/primeicons.c6e2053303524e39530c.svg",
     "static/media/primeicons.eot": "/krugerianos_Inmunizados/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
@@ -9,11 +9,11 @@
     "static/media/primeicons.ttf": "/krugerianos_Inmunizados/static/media/primeicons.91bacab1f083f2795272.ttf",
     "index.html": "/krugerianos_Inmunizados/index.html",
     "main.f77380e4.css.map": "/krugerianos_Inmunizados/static/css/main.f77380e4.css.map",
-    "main.5caa4c66.js.map": "/krugerianos_Inmunizados/static/js/main.5caa4c66.js.map",
+    "main.2e6d97cb.js.map": "/krugerianos_Inmunizados/static/js/main.2e6d97cb.js.map",
     "787.afec37f8.chunk.js.map": "/krugerianos_Inmunizados/static/js/787.afec37f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f77380e4.css",
-    "static/js/main.5caa4c66.js"
+    "static/js/main.2e6d97cb.js"
   ]
 }
