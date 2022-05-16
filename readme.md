@@ -7,7 +7,7 @@ Recibi la prueba Inventario de vacunación de empleados historias de usuario a l
 
 ### 📝 DATABASE
 Inicie con el Data Base en el que defini 3 Tablas 
-![Diagrama]()
+![Diagrama](https://github.com/jessicajoya/krugerianos_Inmunizados-/blob/78001c0b5eeb6e331ca43c862b553307679a1695/ResourcesReadme/ERDiagram.png?raw=true)
 
 1. **Profile** Contiene dos columnas 
 - [Profile_id] 
@@ -20,7 +20,7 @@ Inicie con el Data Base en el que defini 3 Tablas
 3. **Employee** Contiene toda la informacion del krugeriano
 - [user_id] [employee_dni] [employee_lastname] [employee_email]: Se marcan como NotNull debido a que es la informacion minima requeria al crear un usuario
 - Las demas Columnas no son obligatorias y estan a disposicion de edicion del empleado
-![EmployeeColumns]()
+![EmployeeColumns](https://github.com/jessicajoya/krugerianos_Inmunizados-/blob/78001c0b5eeb6e331ca43c862b553307679a1695/ResourcesReadme/EmployeeColumns.png?raw=true)
 
 ### 🙋‍♀️BACK API REST
 Continue con el API REST que maneja la logica del negocio ⏰ esta seccion me tomo la mayor cantidad de tiempo debido a que no habia trabajado con Spring🫒
@@ -32,7 +32,7 @@ Continue con el API REST que maneja la logica del negocio ⏰ esta seccion me to
 4. **Service** : Contiene las funciones
 5. **Controller** : Encargado de recibir las peticiones
 
-![Sprint]()
+![Sprint](https://github.com/jessicajoya/krugerianos_Inmunizados-/blob/78001c0b5eeb6e331ca43c862b553307679a1695/ResourcesReadme/sprintStructure.png?raw=true)
 
 ### 🙆‍♀️FRONT REACT
 Mediante Axios realizo las peticiones HTTP 
