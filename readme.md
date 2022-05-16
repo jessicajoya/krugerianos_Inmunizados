@@ -36,4 +36,5 @@ Continue con el API REST que maneja la logica del negocio ⏰ esta seccion me to
 
 ### 🙆‍♀️FRONT REACT
 Mediante Axios realizo las peticiones HTTP 
+## [Deploy GITHUB PAGES](https://jessicajoya.github.io/krugerianos_Inmunizados/)
 
