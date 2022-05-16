@@ -7,6 +7,7 @@ Recibi la prueba Inventario de vacunación de empleados historias de usuario a l
 
 ### 📝 DATABASE
 Inicie con el Data Base en el que defini 3 Tablas 
+
 ![Diagrama](https://github.com/jessicajoya/krugerianos_Inmunizados-/blob/78001c0b5eeb6e331ca43c862b553307679a1695/ResourcesReadme/ERDiagram.png?raw=true)
 
 1. **Profile** Contiene dos columnas 
